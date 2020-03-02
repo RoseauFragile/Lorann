@@ -8,5 +8,6 @@ You have to collect to kill monsters thanks to your fireball or gather fruits to
 
 I developped my own version of Lorann during my studies. 
 There is 4 kinds of mosnters with differents behaviours.
-
-<img align="center" src="https://github.com/RoseauFragile/Lorann/blob/master/Lorann.png" />
+<p align="center">
+<img src="https://github.com/RoseauFragile/Lorann/blob/master/Lorann.png" />
+ </p>
